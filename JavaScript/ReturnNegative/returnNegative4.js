@@ -1,0 +1,1 @@
+makeNegative = n => -Math.abs(n)
